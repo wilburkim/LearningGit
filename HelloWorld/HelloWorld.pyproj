@@ -49,6 +49,9 @@
     <Compile Include="Modules\CalMoney.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Modules\MyAddClass.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Modules\MyModule.py">
       <SubType>Code</SubType>
     </Compile>
